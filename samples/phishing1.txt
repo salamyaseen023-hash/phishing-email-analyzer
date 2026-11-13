@@ -1,0 +1,9 @@
+From: "Microsoft Support" <support@micros0ft-security.example>
+Subject: URGENT: Verify your account immediately
+
+Dear customer,
+
+We detected unusual activity. Your account suspended unless you act now.
+Please confirm your identity within 24 hours using the link below.
+
+http://192.168.10.5/login
